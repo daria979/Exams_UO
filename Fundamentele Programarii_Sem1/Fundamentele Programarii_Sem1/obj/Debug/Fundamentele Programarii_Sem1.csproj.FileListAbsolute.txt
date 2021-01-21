@@ -1,0 +1,7 @@
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\bin\Debug\Fundamentele Programarii_Sem1.exe.config
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\bin\Debug\Fundamentele Programarii_Sem1.exe
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\bin\Debug\Fundamentele Programarii_Sem1.pdb
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\obj\Debug\Fundamentele Programarii_Sem1.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\obj\Debug\Fundamentele Programarii_Sem1.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\obj\Debug\Fundamentele Programarii_Sem1.exe
+C:\Users\Daria\source\repos\daria979\Exams_UO\Fundamentele Programarii_Sem1\Fundamentele Programarii_Sem1\obj\Debug\Fundamentele Programarii_Sem1.pdb
